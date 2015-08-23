@@ -33,5 +33,3 @@
 (once
    (unless (info "ins@nity.l")
       (mapc go-ins@ne *Funs) ) )
-
-(load "ins@nity.l")
