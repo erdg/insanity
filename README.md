@@ -36,7 +36,7 @@ The benefits are not immediately obivious; they might never be. In actual code, 
 ```
 That's better; it's much more readable with the function on the line below.
 
-
+### ins@ne idioms
 Combine the `@` functions with any of the flow or logic functions to really make your head spin.
 ```lisp
 : (let Lst '(this is the list)
