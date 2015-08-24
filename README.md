@@ -60,4 +60,5 @@ You're losing yourself, your identity, everything you once knew about life and p
 "4"
 -> ("2" "3" "4")
 ```
-You've gone completely ins@ne. 
+You've gone completely insane.
+
