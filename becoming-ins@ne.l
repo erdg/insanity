@@ -1,8 +1,8 @@
 (symbols 'ins@nity 'pico)
 
-(local go-ins@ne *Funs)
+(local become-ins@ne *Funs)
 
-[de go-ins@ne (@Fun)
+[de become-ins@ne (@Fun)
    (macro
       (out "+ins@nity.l"   # open in "append" mode
          (prinl "[de " (pack '@Fun "@") " \"Args\"")
@@ -32,4 +32,4 @@
       
 (once
    (unless (info "ins@nity.l")
-      (mapc go-ins@ne *Funs) ) )
+      (mapc become-ins@ne *Funs) ) )
